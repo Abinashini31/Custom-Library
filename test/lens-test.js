@@ -1,4 +1,4 @@
-import { lens, view, set } from './index.js';
+import { lens, view, set } from '../src/index.js';
 
 const user = {
     id: 1,

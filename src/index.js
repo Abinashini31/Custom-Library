@@ -1,3 +1,3 @@
-export { lens } from './lens.js';
-export { view } from './view.js';
-export { set } from './set.js';
+export { lens } from './Lens/lens.js';
+export { view } from './Lens/view.js';
+export { set } from './Lens/set.js';

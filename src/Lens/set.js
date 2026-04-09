@@ -7,8 +7,8 @@ export function set(lens, value, obj) {
         }
         return {
             ...o,
-            [key]: setIn(o?.[key] ?? {}, index + 1)
+            [key]: set(o?.[key] ?? {}, index + 1)
         };
     };
-    return setIn(obj, 0);
+    return set(obj, 0);
 }
