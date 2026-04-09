@@ -1,5 +1,8 @@
 import { pluck } from '../src/Extraction/pluck.js';
 
+console.log('Running Pluck Tests...');
+runPluckTests();
+
 export function runPluckTests() {
   const data = [
     { id: 1, info: { email: 'v@test.com' }, tags: ['dev'] },

@@ -4,6 +4,6 @@
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "node test/runTests.js"
+    "test": "node test/pluch-test.js"
   }
 }
