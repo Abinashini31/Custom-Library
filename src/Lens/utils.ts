@@ -1,3 +1,5 @@
+// src/Lens/utils.ts
+
 export function getDeep(obj: any, keys: string[]) {
   return keys.reduce((acc, key) => acc?.[key], obj);
 }
