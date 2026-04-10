@@ -1,4 +1,4 @@
-import { some } from "../../Lens/foundation/some";
+import { some } from "../src/Foundation/foundation/some";
 
 describe("some", () => {
   test("returns true if any element matches condition", () => {

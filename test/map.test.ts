@@ -1,4 +1,4 @@
-import { map } from "../../Lens/foundation/map";
+import { map } from "../src/Foundation/foundation/map";
 
 describe("map()", () => {
 

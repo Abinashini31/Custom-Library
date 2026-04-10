@@ -1,4 +1,4 @@
-import { findByPredicate } from "../../Lens/Search/findByPredicate";
+import { findByPredicate } from "../src/Search/findByPredicate";
 
 describe("findByPredicate", () => {
   const users = [

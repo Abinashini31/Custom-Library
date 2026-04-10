@@ -1,4 +1,4 @@
-import { reduce } from "../../Lens/foundation/reduce";
+import { reduce } from "../src/Foundation/foundation/reduce";
 
 
 describe("reduce", () => {

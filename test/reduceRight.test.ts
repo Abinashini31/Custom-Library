@@ -1,4 +1,4 @@
-import { reduceRight } from "../../Lens/foundation/reduceright";
+import { reduceRight } from "../src/Foundation/foundation/reduceright";
 
 
 describe("reduceRight", () => {

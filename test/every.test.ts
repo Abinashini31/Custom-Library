@@ -1,4 +1,4 @@
-import { every } from "../../Lens/foundation/every";
+import { every } from "../src/Foundation/foundation/every";
 
 describe("every", () => {
   test("returns true if all elements satisfy condition", () => {

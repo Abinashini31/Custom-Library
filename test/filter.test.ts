@@ -1,5 +1,5 @@
 
-import { filter } from "../../Lens/foundation/filter";
+import { filter } from "../src/Foundation/foundation/filter";
  
 describe("filter()", () => {
  

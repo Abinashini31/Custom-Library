@@ -1,4 +1,4 @@
-import { findByKeyValue } from "../../Lens/Search/findByKeyValue";
+import { findByKeyValue } from "../src/Search/findByKeyValue";
 
 describe("findByKeyValue", () => {
   const users = [
